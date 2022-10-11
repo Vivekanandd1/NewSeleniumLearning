@@ -1,3 +1,0 @@
-2022-Aug-28 20:39:13 PM [main] INFO  _1_RahulShettyClasses._23_LoggingWithLog4j - this is sample log
-2022-Aug-28 20:39:13 PM [main] ERROR _1_RahulShettyClasses._23_LoggingWithLog4j - this is error this cant be right
-2022-Aug-28 20:39:13 PM [main] WARN  _1_RahulShettyClasses._23_LoggingWithLog4j - this can run into an error
